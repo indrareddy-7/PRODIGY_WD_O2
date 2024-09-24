@@ -23,11 +23,3 @@ PROGRAMMING LANGUAGE: HTML, CSS, JAVACRIPT
 Sample Video :
 
 https://github.com/user-attachments/assets/18252cb7-5da1-41fc-a31e-86b0580f3178
-
-
-
-
-
-
-
-
